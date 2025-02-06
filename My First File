@@ -3,3 +3,9 @@ int a = 3;
 int b= 4;
 int sub = a+b;
 Console.WriteLine("The sum of a & b is " + sum);
+
+// Subtraction
+int a = 3;
+int b= 4;
+int sub = a-b;
+Console.WriteLine("The sub of a & b is " + sub);
