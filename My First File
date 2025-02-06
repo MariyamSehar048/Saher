@@ -9,3 +9,11 @@ int a = 3;
 int b= 4;
 int sub = a-b;
 Console.WriteLine("The sub of a & b is " + sub);
+
+// Multiplication
+int a = 3;
+int b= 4;
+int multi = a*b;
+Console.WriteLine("The multi of a & b is " + multi);
+
+
